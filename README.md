@@ -1,7 +1,7 @@
 Hi 👋 My name is Beto Souza
 ===========================
 
-Tech Lead | Especialista em desenvolvimento full-stack
+Tech Lead | Full-stack development specialist
 ------------------------------------------------------
 
 * 🌍  I'm based in São Paulo, BR
